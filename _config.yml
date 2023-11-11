@@ -1,7 +1,7 @@
 title: Traveller | practice
 locale: en_US
-baseurl: https://traveller00007.github.io
-url: https://traveller00007.github.io
+baseurl: https://Traveller00007/traveller00007.github.io
+url: https://Traveller00007/traveller00007.github.io
 permalink: /:categories/:title/
 markdown: kramdown
 highlighter: rouge
